@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block form %}
+
+<form action="" method="get" role="form">
+
+  {{ filter.form.as_p }}
+
+  <input value="Buscar" type="submit" class="btn btn-success" />
+</form>
+
+{% endblock %}
+
+{% block content %}
+
+<!-- Example row of columns -->
+<div class="row">
+  <div class="col-md-6">
+    <h2>Genéricos</h2>
+    <p>
+
+      {% for obj in filter %}
+
+      {% if obj.bioequivalent %}
+
+      {{ obj.name }}, {{ obj.holder }} | {{ obj.medicinal_ingredient }}<br />
+
+      {% endif %}
+
+      {% endfor %}
+
+    </p>
+  </div>
+  <div class="col-md-6">
+    <h2>Productos</h2>
+    <p>
+
+      {% for obj in filter %}
+
+      {% if not obj.bioequivalent %}
+
+      {{ obj.name }}, {{ obj.holder }} | {{ obj.medicinal_ingredient }}<br />
+
+      {% endif %}
+
+      {% endfor %}
+
+    </p>
+  </div>
+</div>
+
+{% endblock %}

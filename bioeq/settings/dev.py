@@ -69,3 +69,9 @@ MIDDLEWARE_CLASSES += (
     'debug_toolbar.middleware.DebugToolbarMiddleware',
 )
 ########## END TOOLBAR CONFIGURATION
+
+########## DJANGO EXTENSIONS
+INSTALLED_APPS += (
+    'django_extensions',
+)
+########## End DJANGO EXTENSIONS
