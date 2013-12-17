@@ -1,0 +1,1808 @@
+1
+KETOPROFENO
+Profenid
+Sanofi-Aventis
+Dolofar cápsulas 50 mg
+F-7160
+Medipharm
+2
+KETOPROFENO
+Profenid
+Sanofi-Aventis
+Ketoprofeno cápsulas 50 mg
+F-9897
+Laboratorio Mintlab
+3
+KETOPROFENO
+Profenid
+Sanofi-Aventis
+Relatene cápsulas 50 mg
+F-6931
+Laboratorio Mintlab
+4
+KETOPROFENO
+Profenid
+Sanofi-Aventis
+Ketoprofeno cápsulas 50 mg
+F-14024
+Laboratorio Andrómaco
+5
+KETOPROFENO
+Profenid
+Sanofi-Aventis
+Keprodol cápsulas 50 mg
+F-15298
+Laboratorio Andrómaco
+6
+IBUPROFENO
+Ibuprofeno comprimidos recubiertos 600 mg
+F-20011
+Medipharm
+7
+IBUPROFENO
+Ibuprofeno comprimidos recubiertos 600 mg
+F-20013
+Ascend Laboratories SpA.
+8
+IBUPROFENO
+Ibuprofeno comprimidos recubiertos 600 mg
+F-19794
+Laboratorio Andrómaco
+9
+IBUPROFENO
+Ibuprofeno comprimidos recubiertos 400 mg
+F-20046
+Medipharm
+10
+IBUPROFENO
+Ibuprofeno comprimidos recubiertos 400 mg
+F-20047
+Ascend Laboratories SpA.
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott
+Laboratories
+Profenid
+Sanofi-Aventis
+11
+IBUPROFENO
+Ibu-6 comprimidos recubiertos 600 mg
+F-20148
+Laboratorio Andrómaco
+12
+IBUPROFENO
+Ibuprofeno comprimidos recubiertos 400 mg
+F-19797
+Laboratorio Andrómaco
+13
+IBUPROFENO
+Ibuprofeno comprimidos recubiertos 200 mg
+F-19796
+Laboratorio Andrómaco
+14
+IBUPROFENO
+Ibu-2 comprimidos recubiertos 200 mg
+F-20227
+Laboratorio Andrómaco
+15
+IBUPROFENO
+Ibuprofeno comprimidos recubiertos 200 mg
+F-20393
+Ascend Laboratories SpA.
+16
+IBUPROFENO
+IBU-4 comprimidos recubiertos 400 mg
+F-20401
+Laboratorio Andrómaco
+17
+ALPRAZOLAM
+Zotran
+Pfizer
+Tranquinal comprimidos 0,5 mg
+F-9663
+Laboratorio Bagó
+18
+CLONAZEPAM
+  Clozanil comprimidos 0,5 mg
+F-504
+Instituto Sanitas
+19
+CLONAZEPAM
+Clozanil comprimidos 2 mg
+F-505
+Instituto Sanitas
+20
+CLONAZEPAM
+Neuryl comprimidos 0,5 mg
+F-17409
+Laboratorio Bagó
+21
+CLONAZEPAM
+Clonapam comprimidos 0,5 mg
+F-8373
+Laboratorio Chile
+22
+CLONAZEPAM
+Clonazepam comprimidos 0,5 mg
+F-13246
+Laboratorio Chile
+23
+CLONAZEPAM
+Clonapam comprimidos    2 mg
+F-8374
+Laboratorio Chile
+24
+CLONAZEPAM
+Neuryl comprimidos 2 mg
+F-20004
+Laboratorio Bagó
+25
+CLONAZEPAM
+Clonazepam comprimidos    2 mg
+F-13247
+Laboratorio Chile
+26
+CLONAZEPAM
+Neuryl comprimidos 2 mg
+F-17410
+Laboratorio Bagó
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott
+Laboratories
+Ansiedad
+Ravotril
+Roche
+27
+CLONAZEPAM
+Clonazepam comprimidos 0,5 mg
+F-15579
+Interpharma S.A.
+28
+CLONAZEPAM
+Clonapam comprimidos    2 mg
+F-15580
+Interpharma S.A.
+29
+CLONAZEPAM
+Bejowa comprimidos 0,5 mg
+F-20240
+Sanofi-Aventis de Chile S.A.
+30
+CLONAZEPAM
+Bejowa comprimidos 2 mg
+F-20239
+Sanofi-Aventis de Chile S.A.
+31
+CLONAZEPAM
+Clonazepam comprimidos 0,5 mg
+F-20241
+Sanofi-Aventis de Chile S.A.
+32
+CLONAZEPAM
+Clonazepam comprimidos 2 mg
+F-20242
+Sanofi-Aventis de Chile S.A.
+33
+CLONAZEPAM
+Clonazepam comprimidos 2 mg
+F-13557
+Laboratorio Mintlab
+34
+CLONAZEPAM
+Histrol comprimidos 2 mg
+F-13559
+Laboratorio Mintlab
+35
+CLONAZEPAM
+  Histrol comprimidos 0,5 mg
+F-13558
+Laboratorio Mintlab
+36
+CLONAZEPAM
+  Clonazepam comprimidos 0,5 mg
+F-13556
+Laboratorio Mintlab
+37
+CLOPIDOGREL
+Piclokare comprimidos recubiertos 75 mg
+F-17986
+Etex Chile Farmacéutica
+38
+CLOPIDOGREL
+Clotrombix comprimidos recubiertos 75 mg
+F-19113
+Novartis Chile
+39
+ACENOCUMAROL
+Acebron comprimidos 4 mg
+F-16094
+Laboratorio Recalcine
+40
+ACENOCUMAROL
+  Isquelium comprimidos 4 mg
+F-9091
+Laboratorio Rider
+41
+CLORFENAMINA MALEATO
+Clorfenamina maleato comprimidos 4 mg
+F-14519
+Laboratorio Andrómaco
+42
+CLORFENAMINA MALEATO
+Histafed comprimidos 4 mg
+F-15502
+Laboratorio Fasa
+Clorprimeton
+Plavix
+Schering Plough
+Ansiedad
+Ravotril
+Roche
+Antiagregante Plaquetario
+Neo-sintrom
+Novartis
+Antialergico
+Sanofi-Aventis
+43
+CLORFENAMINA MALEATO
+Clorfenamina maleato comprimidos 4 mg
+F-3901
+Laboratorio Chile
+44
+CLORFENAMINA MALEATO
+Prodel comprimidos 4 mg
+F-1209
+Laboratorio Pasteur
+45
+CLORFENAMINA MALEATO
+Nipolen comprimidos 4 mg
+F-13441
+Laboratorio Mintlab
+46
+CLORFENAMINA MALEATO
+ Clorfenamina maleato comprimidos 4 mg
+F-6877
+Laboratorio Mintlab
+47
+CLORFENAMINA MALEATO
+ Clorfenamina maleato comprimidos 4 mg
+F-2310
+Laboratorio Maver
+48
+CLORFENAMINA MALEATO
+ Clorfenamina maleato comprimidos 4 mg
+F-9495
+Laboratorio Rider
+49
+CLORFENAMINA MALEATO
+ Clorfenamina maleato comprimidos 4 mg
+F-11601
+Laboratorio Pasteur
+50
+CLORFENAMINA MALEATO
+ Scadan comprimidos 4 mg
+F-7764
+Medipharm
+51
+DESLORATADINA
+Neolarmax comprimidos recubiertos 5 mg
+F-14617
+Laboratorio Andrómaco
+52
+DESLORATADINA
+Neo-Alledryl comprimidos recubiertos 5 mg
+F-16473
+Laboratorio Prater S.A.
+53
+CETIRIZINA
+Cetirizina diclorhidrato comprimidos
+recubiertos 10 mg
+F-10073
+Laboratorio Mintlab
+54
+CETIRIZINA
+Coolips comprimidos recubiertos 10 mg
+F-10074
+Laboratorio Mintlab
+55
+MONTELUKAST
+Montelukast comprimidos masticables 5 mg
+F-20589
+Laboratorio Euromed Chile
+56
+MONTELUKAST
+Montelukast comprimidos masticables 4 mg
+F-20588
+Laboratorio Euromed Chile
+57
+AZITROMICINA
+Zithromax
+Pfizer
+Azitromicina comprimidos recubiertos 500 mg
+F-20532
+Sanofi-Aventis de Chile S.A.
+58
+CEFADROXILO
+Cefamox
+Bristol Myers Squibb
+Cefadroxilo cápsulas 500 mg
+F-6518
+Laboratorio Andrómaco
+Aerius
+Schering Plough
+Clorprimeton
+Antialérgico - Antiasmático
+Schering Plough
+Singulair
+Merck Sharp &
+Dohme
+Zyrtec
+Glaxosmithkline
+Antialergico
+Antibiótico
+59
+CIPROFLOXACINO
+Ciprofloxacino comprimidos recubiertos
+500 mg
+F-8360
+Laboratorio Chile
+60
+CIPROFLOXACINO
+Grifociprox comprimidos recubiertos 500 mg
+F-8425
+Laboratorio Chile
+61
+CIPROFLOXACINO
+Tigina comprimidos recubiertos 500 mg
+F-18455
+Interpharma S.A.
+62
+CIPROFLOXACINO
+Ciproval comprimidos recubiertos 500 mg
+F-5523
+Laboratorio Saval
+63
+CIPROFLOXACINO
+Ciprofloxacino comprimidos recubiertos
+500 mg
+F-8722
+Chemopharma
+64
+CIPROFLOXACINO
+Cetraxal comprimidos recubiertos 500 mg
+F-19908
+Faes Farma Chile
+65
+CIPROFLOXACINO
+Ciprofloxacino comprimidos recubiertos
+500 mg
+F-9877
+Laboratorio Mintlab
+66
+CIPROFLOXACINO
+Ciprofloxacino comprimidos recubiertos
+500 mg
+F-18221
+Laboratorio Euromed Chile S.A.
+67
+CIPROFLOXACINO
+Ciprofloxacino comprimidos recubiertos
+500 mg
+F-14779
+Opko Chile
+68
+DOXICICLINA
+Vibramicina
+Pfizer
+Tolexine GE 100 comprimidos 100 mg
+F-15120
+D&M Pharma Ltda
+69
+LEVOFLOXACINO
+Tavanic
+Sanofi-Aventis
+Levoxin comprimidos recubiertos 500 mg
+F-19998
+Laboratorios Euromed
+70
+CEFUROXIMA
+Curocef
+Glaxosmithkline
+Cefuroxima comprimidos recubiertos 500 mg
+F-20237
+Ascend Laboratories SpA.
+71
+CITALOPRAM
+Cipramil
+Lundbeck
+Citta comprimidos recubiertos 20 mg
+F-19655
+Laboratorio Euromed Chile S.A.
+72
+ESCITALOPRAM
+Neopresol comprimidos recubiertos 10 mg
+F-15836
+Laboratorio Bagó
+73
+ESCITALOPRAM
+Tresus comprimidos recubiertos 20 mg
+F-19103
+Novartis Chile
+74
+ESCITALOPRAM
+Tresus comprimidos recubiertos 10 mg
+F-19102
+Novartis Chile
+Baycip
+Bayer
+Lexapro
+Lundbeck
+Antidepresivo
+Antibiótico
+75
+ESCITALOPRAM
+Restaural comprimidos recubiertos 10 mg
+F-20626
+Pharmavita S.A.
+76
+ESCITALOPRAM
+Restaural comprimidos recubiertos 20 mg
+F-20627
+Pharmavita S.A.
+77
+FLUOXETINA
+Livertox comprimidos recubiertos 20 mg
+F-9657
+Laboratorio Bagó
+78
+FLUOXETINA
+Actan cápsulas 20 mg
+F-5446
+Eurolab
+79
+PAROXETINA
+Aroxat
+Glaxosmithkline
+ Drimpax comprimidos recubiertos 20 mg
+F-18001
+Laboratorio Rider
+80
+SERTRALINA
+Dieloft comprimidos recubiertos 50 mg
+F-20517
+Sanofi-Aventis de Chile S.A.
+81
+SERTRALINA
+Dieloft comprimidos recubiertos 100 mg
+F-20518
+Sanofi-Aventis de Chile S.A.
+82
+SERTRALINA
+Sertralina comprimidos recubiertos 50 mg
+F-20519
+Sanofi-Aventis de Chile S.A.
+83
+VENLAFAXINA
+Nervix comprimidos recubiertos 75 mg
+F-12491
+Laboratorio Bagó
+84
+VENLAFAXINA
+Venlafaxina IR comprimidos 75 mg
+F-20531
+Pharmavita S.A.
+85
+VENLAFAXINA
+Vencontrol cápsulas con gránulos
+recubiertos de liberación prolongada 150 mg
+F-20178
+Sanofi-Aventis de Chile S.A.
+86
+VENLAFAXINA
+Venlafaxina Clorhidrato cápsulas con
+gránulos recubiertos de liberación
+prolongada 150 mg
+F-20179
+Sanofi-Aventis de Chile S.A.
+87
+VENLAFAXINA
+Vencontrol cápsulas con gránulos
+recubiertos de liberación prolongada 75 mg
+F-20180
+Sanofi-Aventis de Chile S.A.
+88
+VENLAFAXINA
+Venlafaxina Clorhidrato cápsulas con
+gránulos recubiertos de liberación
+prolongada 75 mg
+F-20218
+Sanofi-Aventis de Chile S.A.
+89
+VENLAFAXINA
+Vencontrol cápsulas con gránulos
+recubiertos de liberación prolongada 37,5 mg
+F-20216
+Sanofi-Aventis de Chile S.A.
+90
+VENLAFAXINA
+Venlafaxina Clorhidrato cápsulas con
+gránulos recubiertos de liberación
+prolongada 37,5 mg
+F-20217
+Sanofi-Aventis de Chile S.A.
+Lexapro
+Lundbeck
+Altruline
+Roering
+Antidepresivo
+Efexor XR
+Laboratorios Wyeth
+Laboratorio Bagó
+Livertox
+1.- Efexor
+2.-Venlafaxina
+1.- Wyeth
+2.- Teva
+Pharmaceuticals
+91
+VENLAFAXINA
+Axon cápsulas con microgranulos
+recubiertos de liberación prolongada 150 mg
+F-20071
+Laboratorio Euromed Chile S.A.
+92
+VENLAFAXINA
+Subelan XR cápsulas con comprimidos de
+liberacion prolongada 150 mg
+F-20484
+Pharmavita S.A.
+93
+VENLAFAXINA
+Subelan XR cápsulas con comprimidos de
+liberacion prolongada 75 mg
+F-20485
+Pharmavita S.A.
+94
+Antiepileptico
+TOPIRAMATO
+Topamax
+Biomood comprimidos recubiertos 100 mg
+F-20534
+Laboratorio Saval
+95
+PREGABALINA
+ Pregalex comprimidos recubiertos 75 mg
+F-16183
+Laboratorio Andrómaco
+96
+PREGABALINA
+ Pregalex comprimidos recubiertos 150 mg
+F-16184
+Laboratorio Andrómaco
+97
+PREGABALINA
+Pregastar cápsulas 75 mg
+F-19710
+Novartis Chile
+98
+PREGABALINA
+Pregastar cápsulas 150 mg
+F-19711
+Novartis Chile
+99
+PREGABALINA
+Pregastar cápsulas 300 mg
+F-19709
+Novartis Chile
+100
+CARBAMAZEPINA
+Tegretal
+Novartis
+Carbamazepina comprimidos 200 mg
+F-3893
+Laboratorio Chile
+101
+LEVETIRACETAM
+Prebb comprimidos recubiertos 1000 mg
+F-19377
+Laboratorio Rider
+102
+LEVETIRACETAM
+Prebb comprimidos recubiertos 500 mg
+F-19378
+Laboratorio Rider
+103
+LAMOTRIGINA
+Daksol comprimidos 25 mg
+F-20544
+Pharmavita S.A.
+104
+LAMOTRIGINA
+Daksol comprimidos 50 mg
+F-20545
+Pharmavita S.A.
+105
+LAMOTRIGINA
+Daksol comprimidos 100 mg
+F-20546
+Pharmavita S.A.
+106
+ANASTROZOL
+Anastrazol comprimidos recubiertos 1 mg
+F-16801
+Laboratorio Rider
+Arimidex
+Cancer de Mama
+Glaxosmithkline
+Antiepileptico - Estabilizador del Estado
+de Ánimo
+Lyrica
+Pfizer
+Astrazeneca
+Keppra
+Glaxosmithkline
+Lamictal
+Antidepresivo
+Efexor XR
+Laboratorios Wyeth
+Antiepileptico - Dolores Neuralgicos
+107
+ANASTROZOL
+Madelen comprimidos recubiertos 1 mg
+F-16807
+Laboratorio Rider
+108
+ANASTROZOL
+Anastrozol comprimidos recubiertos 1 mg
+F-19105
+Fresenius kabi
+109
+EXEMESTANO
+ Nodutax comprimidos recubiertos 25 mg
+F-18640
+Laboratorio Rider
+110
+EXEMESTANO
+exemestano comprimidos recubiertos 25 mg
+F-19030
+Laboratorio Chile
+111
+LETROZOL
+Tiadis comprimidos recubietos 2,5 mg
+F-17717
+Laboratorio Rider
+112
+LETROZOL
+Letrozol comprimidos recubiertos 2,5 mg
+F-18699
+Fresenius kabi
+113
+LETROZOL
+Letrozol comprimidos recubiertos 2,5 mg
+F-19335
+Laboratorio Euromed Chile S.A.
+114
+BICALUTAMIDA
+Biolev comprimidos recubiertos 150 mg
+F-17057
+Laboratorio Rider
+115
+BICALUTAMIDA
+Biolev comprimidos recubiertos 50 mg
+F-17047
+Laboratorio Rider
+116
+BICALUTAMIDA
+Bicalutamida comprimidos recubiertos  50 mg
+F-18561
+Fresenius kabi
+117
+PREDNISONA
+Prednisona comprimidos 5 mg
+F-3376
+Laboratorio Mintlab
+118
+PREDNISONA
+ Prednisona comprimidos 5 mg
+F-1400
+Laboratorio Chile
+119
+PREDNISONA
+Cortiprex comprimidos recubiertos 20 mg
+F-8381
+Laboratorio Chile
+120
+PREDNISONA
+Prednisona comprimidos 20 mg
+F-15757
+Laboratorio Andrómaco
+121
+PREDNISONA
+Prednisona comprimidos 20 mg
+F-14411
+Laboratorio Chile
+122
+PREDNISONA
+Cortiprex comprimidos recubiertos 5 mg
+F-8382
+Laboratorio Chile
+Arimidex
+Astrazeneca
+Aromasin
+Cancer de Prostata
+Femara
+Novartis
+Cancer de Mama
+Meticorten
+Schering Plough
+Casodex
+Corticoterapia
+Pfizer
+Astrazeneca
+123
+PREDNISONA
+Bersen comprimidos 5 mg
+F-11626
+Laboratorio Pasteur
+124
+PREDNISONA
+Prednisona comprimidos 20 mg
+F-13016
+Laboratorio Pasteur
+125
+PREDNISONA
+Bersen comprimidos 20 mg
+F-11625
+Laboratorio Pasteur
+126
+ATORVASTATINA
+Lowden comprimidos recubiertos 40 mg
+F-13954
+Laboratorio Saval
+127
+ATORVASTATINA
+Atorvastatina comprimidos recubiertos 10 mg
+F-19646
+Laboratorio Chile
+128
+ATORVASTATINA
+Atorvastatina comprimidos recubiertos 20 mg
+F-19643
+Laboratorio Chile
+129
+ATORVASTATINA
+Atorvastatina comprimidos recubiertos 40 mg
+F-19644
+Laboratorio Chile
+130
+ATORVASTATINA
+Atorvastatina comprimidos recubiertos 80 mg
+F-19645
+Laboratorio Chile
+131
+ATORVASTATINA
+Lipox comprimidos recubiertos 10 mg
+F-19639
+Laboratorio Chile
+132
+ATORVASTATINA
+Lipox comprimidos recubiertos 20 mg
+F-19640
+Laboratorio Chile
+133
+ATORVASTATINA
+Lipox comprimidos recubiertos 40 mg
+F-19641
+Laboratorio Chile
+134
+ATORVASTATINA
+Lipox comprimidos recubiertos 80 mg
+F-19642
+Laboratorio Chile
+135
+ATORVASTATINA
+Orvakare comprimidos recubiertos 40 mg
+F-19731
+Etex Chile Farmacéutica
+136
+ATORVASTATINA
+Lowden comprimidos recubiertos 10 mg
+F-2231
+Laboratorio Saval
+137
+ATORVASTATINA
+Lowden comprimidos recubiertos 20 mg
+F-2232
+Laboratorio Saval
+138
+ATORVASTATINA
+Atorvastatina comprimidos recubiertos 20 mg
+F-18552
+Opko Chile
+Disminución del Colesterol
+Meticorten
+Schering Plough
+Corticoterapia
+Lipitor
+Pfizer
+139
+ATORVASTATINA
+Atorvastatina comprimidos recubiertos 10 mg
+F-18459
+Opko Chile
+140
+ATORVASTATINA
+Lipoten comprimidos recubiertos 80 mg
+F-20489
+Pharmavita S.A.
+141
+ATORVASTATINA
+Lipoten comprimidos recubiertos 40 mg
+F-20490
+Pharmavita S.A.
+142
+ATORVASTATINA
+Lipoten comprimidos recubiertos 20 mg
+F-20491
+Pharmavita S.A.
+143
+ATORVASTATINA
+Lipoten comprimidos recubiertos 10 mg
+F-20492
+Pharmavita S.A.
+144
+ATORVASTATINA
+Orvakare comprimidos recubiertos 10 mg
+F-20629
+Etex Chile Farmacéutica
+145
+ATORVASTATINA
+Orvakare comprimidos recubiertos 20 mg
+F-20630
+Etex Chile Farmacéutica
+146
+ROSUVASTATINA
+Rosimol comprimidos recubiertos 10 mg
+F-18758
+Novartis Chile
+147
+ROSUVASTATINA
+Rosimol comprimidos recubiertos 20 mg
+F-19116
+Novartis Chile
+148
+ROSUVASTATINA
+Rosuvastatina comprimidos recubiertos 10 mg
+F-20479
+Sanofi-Aventis de Chile S.A.
+149
+ROSUVASTATINA
+Rosuvastatina comprimidos recubiertos 20 mg
+F-20480
+Sanofi-Aventis de Chile S.A.
+150
+METILFENIDATO
+Ritalin
+Novartis
+Rubifen comprimidos 10 mg
+F-8290
+Pharmavita S.A.
+151
+METILFENIDATO
+Ritalin SR
+Novartis
+Rubifen SR comprimidos recubiertos de
+liberación prolongada 20 mg
+F-14593
+Pharmavita S.A.
+152
+LOSARTÁN (PÓTASICO)
+Corsalux comprimidos recubiertos 50 mg
+F-19513
+Novartis Chile
+153
+LOSARTÁN (PÓTASICO)
+Losartán potasico comprimidos
+recubiertos 50 mg
+F-19752
+Medinova Farma
+154
+LOSARTÁN (PÓTASICO)
+Novsar comprimidos recubiertos 50 mg
+F-19753
+Medinova Farma
+Crestor
+Astrazeneca
+Disminución del Colesterol
+Estimulantes del Sistema Nervioso
+Central
+Hipertensión Arterial
+Cozaar
+Merck Sharp &
+Dohme
+Lipitor
+Pfizer
+155
+LOSARTÁN (PÓTASICO)
+Losartán potasico comprimidos
+recubiertos 50 mg
+F-17455
+Opko Chile
+156
+LOSARTÁN (PÓTASICO)
+Losartán potasico comprimidos
+recubiertos 50 mg
+F-19885
+Laboratorio Euromed Chile S.A.
+157
+LOSARTÁN (PÓTASICO)
+Losapres 100 comprimidos recubiertos 100 mg
+F-13998
+Pharma Investi de Chile S.A.
+158
+LOSARTÁN (PÓTASICO)
+Losartán potasico comprimidos
+recubiertos 50 mg
+F-14315
+Laboratorio Mintlab
+159
+LOSARTÁN (PÓTASICO)
+Lopren comprimidos recubiertos 50 mg
+F-14316
+Laboratorio Mintlab
+160
+LOSARTÁN (PÓTASICO)
+Losartán potasico comprimidos
+recubiertos 50 mg
+F-18420
+Opko Chile
+161
+LOSARTÁN (PÓTASICO)
+Losartán potasico comprimidos
+recubiertos 50 mg
+F-13738
+Laboratorio Chile
+162
+LOSARTÁN (PÓTASICO)
+Simperten comprimidos recubiertos 50 mg
+F-8493
+Laboratorio Chile
+163
+LOSARTÁN (PÓTASICO)
+Losartán potasico comprimidos
+recubiertos 100 mg
+F-17498
+Laboratorio Chile
+164
+LOSARTÁN (PÓTASICO)
+Simperten comprimidos recubiertos 100 mg
+F-16092
+Laboratorio Chile
+165
+LOSARTÁN (PÓTASICO)
+Losartán potasico comprimidos
+recubiertos 50 mg
+F-20177
+Laboratorio Euromed Chile S.A.
+166
+LOSARTÁN (PÓTASICO)
+Losartán potasico comprimidos
+recubiertos 50 mg
+F-8741
+Chemopharma
+167
+LOSARTÁN (PÓTASICO)
+Sanipresin comprimidos recubiertos 50 mg
+F-9043
+Instituto Sanitas
+168
+LOSARTÁN (PÓTASICO)
+Sanipresin forte comprimidos recubiertos
+100 mg
+F-20483
+Instituto Sanitas
+169
+LOSARTÁN (PÓTASICO)
+Losartan potasico comprimidos
+recubiertos 100 mg
+F-20493
+Chemopharma
+170
+LOSARTÁN (PÓTASICO)
+Corodin comprimidos recubiertos 50 mg
+F-11043
+Laboratorios Lafi Ltda.
+Hipertensión Arterial
+Cozaar
+Merck Sharp &
+Dohme
+171
+VERAPAMILO
+Isoptina
+Abbott Laboratories
+Cardiolen cápsulas 80 mg
+F-3292
+Instituto Sanitas
+172
+VALSARTÁN
+Alsalkare comprimidos recubiertos 320 mg
+F-19192
+Etex Chile Farmacéutica
+173
+VALSARTÁN
+Veralpres comprimidos recubiertos 160 mg
+F-20147
+Laboratorio Euromed Chile S.A.
+174
+AMLODIPINO
+Lomakare comprimidos 10 mg
+F-18378
+Etex Chile Farmacéutica
+175
+AMLODIPINO
+Ampino comprimidos 10 mg
+F-20379
+Laboratorio Saval
+176
+AMLODIPINO
+Ampino comprimidos 5 mg
+F-20381
+Laboratorio Saval
+177
+AMLODIPINO
+Lomakare comprimidos 5 mg
+F-18379
+Etex Chile Farmacéutica
+178
+CARVEDILOL
+Cilokare comprimidos recubiertos 25 mg
+F-18684
+Etex Chile Farmacéutica
+179
+CARVEDILOL
+Carvedilol comprimidos 25 mg
+F-18528
+Opko Chile
+180
+CARVEDILOL
+Carvedilol comprimidos 25 mg
+F-20386
+Medinova farma Ltda.
+181
+CARVEDILOL
+Cilokare comprimidos recubiertos 12,5 mg
+F-18683
+Etex Chile Farmacéutica
+182
+CARVEDILOL
+Carvedilol comprimidos 12,5 mg
+F-20547
+Medinova Farma
+183
+ENALAPRIL
+Renitec
+Merck Sharp &
+Dohme
+Enalapril maleto comprimidos 20 mg
+F-20637
+Laboratorio Andrómaco
+184
+Hipertensión arterial - Diuretico
+FUROSEMIDA
+Lasix
+Sanofi-Aventis
+  Furosemida comprimidos 40 mg
+F-2274
+Laboratorio Chile
+185
+Relajante Muscular
+CICLOBENZAPRINA
+Flexeril
+Tensiomax comprimidos recubiertos 10 mg
+F-9711
+Laboratorio Bagó
+186
+CICLOSPORINA
+Equoral cápsulas blandas 100 mg
+F-14878
+Laboratorio Chile
+Novartis
+Sandimmun
+Novartis
+Hipertensión Arterial - Insuficiencia
+Cardíaca
+Hipertensión Arterial
+Tareg
+Trasplante de Órganos
+Hipertensión Arterial - Angina de Pecho
+Norvasc
+Pfizer
+Dilatrend
+Roche
+187
+CICLOSPORINA
+Equoral  cápsulas blandas 50 mg
+F-14877
+Laboratorio Chile
+188
+CICLOSPORINA
+Equoral cápsulas blandas 25 mg
+F-14876
+Laboratorio Chile
+189
+CICLOSPORINA
+Sigmasporin Microral cápsulas blandas 25 mg
+F-15787
+Libra Chile S.A.
+190
+CICLOSPORINA
+Sigmasporin Microral cápsulas blandas 50 mg
+F-15788
+Libra Chile S.A.
+191
+CICLOSPORINA
+Sigmasporin Microral cápsulas blandas 100 mg
+F-15789
+Libra Chile S.A.
+192
+MICOFENOLATO MOFETILO
+Suprimum comprimidos recubiertos 500 mg
+F-15308
+Etex Chile Farmacéutica
+193
+MICOFENOLATO MOFETILO
+Micofenolato mofetilo cápsulas 250 mg
+F-18230
+Laboratorio Chile
+194
+MICOFENOLATO MOFETILO
+Micofenolato Mofetilo comprimidos
+recubiertos 500 mg
+F-18229
+Laboratorio Chile
+195
+MICOFENOLATO MOFETILO
+Lamucon comprimidos recubiertos 500 mg
+F-19321
+Novartis Chile
+196
+MICOFENOLATO MOFETILO
+Lamucon cápsulas 250 mg
+F-19323
+Novartis Chile
+197
+MICOFENOLATO MOFETILO
+ Suprimum cápsulas 250 mg
+F-15309
+Etex Chile Farmacéutica
+198
+MICOFENOLATO MOFETILO
+Linfonex comprimidos recubiertos 500 mg
+F-13451
+Laboratorio Recalcine
+199
+MICOFENOLATO MOFETILO
+Micofenolato Mofetilo comprimidos
+recubiertos 500 mg
+F-19956
+Laboratorio Chile
+200
+MICOFENOLATO MOFETILO
+Inmufen comprimidos recubiertos 500 mg
+F-19749
+Ascend Laboratories SpA.
+201
+MICOFENOLATO MOFETILO
+Profiren 500 comprimidos recubiertos 500 mg
+F-17555
+Libra Chile S.A.
+202
+MICOFENOLATO MOFETILO
+Inmufen cápsulas 250 mg
+F-20109
+Ascend Laboratories SpA.
+Sandimmun
+Novartis
+Trasplante de Órganos
+Cellcept
+Roche
+203
+MICOFENOLATO MOFETILO
+Micofenolato Mofetilo comprimidos
+recubiertos 500 mg
+F-20114
+Ascend Laboratories SpA.
+204
+MICOFENOLATO MOFETILO
+Micofenolato Mofetilo comprimidos
+recubiertos 250 mg
+F-20137
+Laboratorio Chile
+205
+MICOFENOLATO MOFETILO
+Micofenolato mofetilo cápsulas 250 mg
+F-20388
+Ascend Laboratories SpA.
+206
+TACROLIMÚS
+Cidimus cápsulas 5 mg
+F-19210
+Novartis Chile
+207
+TACROLIMÚS
+Cidimus cápsulas 0,5  mg
+F-19209
+Novartis Chile
+208
+TACROLIMÚS
+ Cidimus cápsulas 1 mg
+F-19410
+Novartis Chile
+209
+TACROLIMÚS
+T-Inmun  cápsulas 1 mg
+F-18949
+Laboratorio Recalcine
+210
+TACROLIMÚS
+Tacrolimus cásulas 5 mg
+F-20487
+Opko Chile
+211
+QUETIAPINA
+Gofyl comprimidos recubiertos 25 mg
+F-16950
+Axon Pharma
+212
+QUETIAPINA
+Gofyl comprimidos recubiertos 100 mg
+F-16949
+Axon Pharma
+213
+QUETIAPINA
+Gofyl comprimidos recubiertos 200 mg
+F-16948
+Axon Pharma
+214
+QUETIAPINA
+Quetkare comprimidos recubiertos 25 mg
+F-18293
+Etex Chile Farmacéutica
+215
+QUETIAPINA
+Quetkare comprimidos recubiertos 100 mg
+F-18294
+Etex Chile Farmacéutica
+216
+QUETIAPINA
+Quetkare comprimidos recubiertos 200 mg
+F-18295
+Etex Chile Farmacéutica
+217
+QUETIAPINA
+Quetium comprimidos recubiertos 25 mg
+F-20198
+Laboratorio Saval
+218
+QUETIAPINA
+Quetium comprimidos recubiertos 100 mg
+F-20257
+Laboratorio Saval
+Trastornos Mentales
+Seroquel
+Astrazeneca
+Trasplante de Órganos
+Prograf
+Pharma Investi
+Cellcept
+Roche
+219
+QUETIAPINA
+Quetium comprimidos recubiertos 200 mg
+F-20256
+Laboratorio Saval
+220
+QUETIAPINA
+Quetium comprimidos recubiertos 300 mg
+F-20255
+Laboratorio Saval
+221
+QUETIAPINA
+Quetium XR comprimidos recubiertos de
+liberación prolongada 50 mg
+F-20387
+Laboratorio Saval
+222
+QUETIAPINA
+Quetium XR comprimidos recubiertos de
+liberación prolongada 200 mg
+F-20389
+Laboratorio Saval
+223
+QUETIAPINA
+Quetium XR comprimidos recubiertos de
+liberación prolongada 300 mg
+F-20390
+Laboratorio Saval
+224
+QUETIAPINA
+Quetium XR comprimidos recubiertos de
+liberación prolongada 400 mg
+F-20391
+Laboratorio Saval
+225
+RISPERIDONA
+ Rispyl comprimidos recubiertos 1 mg
+F-18894
+Axon Pharma
+226
+RISPERIDONA
+ Rispyl comprimidos recubiertos 2 mg
+F-18839
+Axon Pharma
+227
+RISPERIDONA
+ Rispyl comprimidos recubiertos 3 mg
+F-18840
+Axon Pharma
+228
+Tratamiento de Acné
+ISOTRETINOINA
+Roaccutan
+Roche
+Oralne cápsulas blandas 20 mg
+F-19579
+Deutsche Pharma S.A.
+229
+DONEPECILO
+Evimal comprimidos recubiertos 10 mg
+F-12081
+Laboratorio Andrómaco
+230
+DONEPECILO
+Nepokare comprimidos recubiertos 10 mg
+F-19402
+Etex Chile Farmacéutica
+231
+DONEPECILO
+Ideclar comprimidos recubiertos 10 mg
+F-19332
+Laboratorio Rider
+232
+DONEPECILO
+Ideclar comprimidos recubiertos 5 mg
+F-19331
+Laboratorio Rider
+233
+MEMANTINA
+Ebixa
+Lundbeck
+Memikare comprimidos recubiertos 10 mg
+F-18186
+Etex Chile Farmacéutica
+234
+GLIBENCLAMIDA
+Glibenclamida comprimidos 5 mg
+F-3947
+Laboratorio Chile
+Trastornos Mentales
+Seroquel
+Astrazeneca
+Daonil
+Sanofi-Aventis
+Tratamiento de Diabetes Mellitus
+Eranz
+Laboratorios Wyeth
+Tratamiento de Alzheimer
+Risperdal
+Seroquel XR
+Astrazeneca
+235
+GLIBENCLAMIDA
+Glibenclamida comprimidos 5 mg
+F-9896
+Laboratorio Mintlab
+236
+METFORMINA CLORHIDRATO
+Andibet comprimidos recubiertos 850 mg
+F-12065
+Chemopharma
+237
+METFORMINA CLORHIDRATO
+Metformina comprimidos recubiertos 850 mg
+F-12064
+Instituto Sanitas
+238
+METFORMINA CLORHIDRATO
+Oxemet comprimidos recubiertos 500 mg
+F-15992
+GlaxoSmithKline
+239
+METFORMINA CLORHIDRATO
+Oxemet comprimidos recubiertos 850 mg
+F-15990
+GlaxoSmithKline
+240
+METFORMINA CLORHIDRATO
+Hipoglucin comprimidos recubiertos 850 mg
+F-8438
+Laboratorio Chile
+241
+METFORMINA CLORHIDRATO
+Glicenex comprimidos recubiertos 500 mg
+F-15406
+Laboratorio Bagó
+242
+METFORMINA CLORHIDRATO
+Glicenex comprimidos recubiertos 850 mg
+F-14047
+Laboratorio Bagó
+243
+METFORMINA CLORHIDRATO
+Metformina Clorhidrato comprimidos
+recubiertos 850 mg
+F-19734
+Laboratorio Andrómaco
+244
+METFORMINA CLORHIDRATO
+Glifortex comprimidos recubiertos 850 mg
+F-18502
+Laboratorio Andrómaco
+245
+METFORMINA CLORHIDRATO
+Metformina Clorhidrato Comprimidos
+Recubiertos 850 mg
+F-15133
+Opko Chile
+246
+METFORMINA CLORHIDRATO
+Glidanil comprimidos recubiertos 850 mg
+F-19751
+Medipharm
+247
+METFORMINA CLORHIDRATO
+Glidanil comprimidos recubiertos 850 mg
+F-19831
+Medipharm
+248
+METFORMINA CLORHIDRATO
+Metformina Clorhidrato comprimidos
+recubiertos 850 mg
+F-17314
+Laboratorio Euromed Chile S.A.
+249
+METFORMINA CLORHIDRATO
+Metformina Clorhidrato comprimidos
+recubiertos 850 mg
+F-20110
+Ascend Laboratories SpA.
+250
+METFORMINA CLORHIDRATO
+Oxemet comprimidos recubiertos 850 mg
+F-20074
+GlaxoSmithKline
+Daonil
+Sanofi-Aventis
+Tratamiento de Diabetes Mellitus
+1.- Glucophage
+2.- Glafornil
+1.- Roche
+2.- Merck
+251
+METFORMINA CLORHIDRATO
+Oxemet comprimidos recubiertos 500 mg
+F-20075
+GlaxoSmithKline
+252
+METFORMINA CLORHIDRATO
+Oxemet comprimidos recubiertos 1000 mg
+F-19860
+GlaxoSmithKline
+253
+METFORMINA CLORHIDRATO
+Glicex 500 comprimidos recubiertos 500 mg
+F-16926
+Laboratorio Pasteur
+254
+METFORMINA CLORHIDRATO
+Glicex 850 comprimidos recubiertos 850 mg
+F-16925
+Laboratorio Pasteur
+255
+METFORMINA CLORHIDRATO
+Fintaxim comprimidos recubiertos 850 mg
+F-9741
+Laboratorio Maver
+256
+METFORMINA CLORHIDRATO
+Metformina comprimidos recubiertos 500 mg
+F-20476
+Instituto Sanitas
+257
+METFORMINA CLORHIDRATO
+Glidanil comprimidos recubiertos 500 mg
+F-20507
+Medipharm
+258
+SILDENAFIL
+Sildenafilo comprimidos recubiertos 100 mg
+F-20550
+Sanofi-Aventis de Chile
+259
+SILDENAFIL
+Sildenafilo comprimidos recubiertos 50 mg
+F-20551
+Sanofi-Aventis de Chile
+260
+OLANZAPINA
+Olanzyl comprimidos recubiertos 10 mg
+F-16439
+Axon Pharma
+261
+OLANZAPINA
+Olanzyl comprimidos 5 mg
+F-16439
+Axon Pharma
+262
+OLANZAPINA
+Olanzapina comprimidos 10 mg
+F-20065
+Ascend Laboratories SpA.
+263
+OLANZAPINA
+Olanzapina comprimidos 5 mg
+F-20066
+Ascend Laboratories SpA.
+264
+OLANZAPINA
+Olanzapina comprimidos recubiertos 10 mg
+F-20543
+Laboratorio Euromed Chile
+265
+OLANZAPINA
+Olanzapina comprimidos 10 mg
+F-20549
+Laboratorio Euromed Chile
+266
+LEVOTIROXINA
+Levotiroxina sódica comprimidos 100 mcg
+F-3979
+Laboratorio Chile
+Tratamiento de Hipotiroidismo
+1.- Synthroid
+2.- Eutirox
+1.- Abbott
+Laboratories
+2.- Merck
+Tratamiento de Diabetes Mellitus
+1.- Glucophage
+2.- Glafornil
+1.- Roche
+2.- Merck
+Zyprexa
+Eli Lilly
+Tratamiento de Esquizofrenia
+Tratamiento de la Disfunción Eréctil
+Viagra
+Pfizer
+267
+LEVOTIROXINA
+T4-Bagó comprimidos 150 mcg
+F-13668
+Laboratorio Bagó
+268
+LEVOTIROXINA
+T4-Bago comprimidos 50 mcg
+F-13669
+Laboratorio Bagó
+269
+LEVOTIROXINA
+T4-Bago comprimidos 75 mcg
+F-17329
+Laboratorio Bagó
+270
+LEVOTIROXINA
+T4-Bago comprimidos 100 mcg
+F-12799
+Laboratorio Bagó
+271
+LEVOTIROXINA
+Levotiroxina sódica comprimidos 100 mcg
+F-13905
+Laboratorio Andrómaco
+272
+Tratamiento de Leucemia
+IMATINIB
+Glivec
+Novartis
+Kadir cápsulas 100 mg
+F-20533
+Laboratorio Rider
+273
+PRAMIPEXOL
+Muvend comprimidos 0,25 mg
+F-17685
+Laboratorio Rider
+274
+PRAMIPEXOL
+Pramipexol comprimidos 0,25 mg
+F-18500
+Opko Chile
+275
+PRAMIPEXOL
+Muvend comprimidos 1 mg
+F-17686
+Laboratorio Rider
+276
+METOCLOPRAMIDA
+Itan comprimidos 10 mg
+F-1163
+Laboratorio Saval
+277
+METOCLOPRAMIDA
+Metoclopramida clorhidrato comprimidos
+10 mg
+F-3988
+Laboratorio Chile
+278
+METOCLOPRAMIDA
+Metoclopramida clorhidrato comprimidos
+10 mg
+F-6559
+Laboratorio Andrómaco
+279
+ABACAVIR
+Ziagen
+Glaxosmithkline
+Mesabex comprimidos recubiertos 300 mg
+F-17883
+Laboratorio Lafi
+280
+EFAVIRENZ
+Efavirenz comprimidos recubiertos 600 mg
+F-18539
+Pharma Genexx
+281
+EFAVIRENZ
+Efavirenz comprimidos recubiertos 600 mg
+F-19736
+Master Care
+282
+EFAVIRENZ
+Ribotex comprimidos recubiertos 600 mg
+F-19737
+Master Care
+Boehringer Ingelheim
+Tratamiento de VIH/SIDA
+Stocrin
+Merck Sharp &
+Dohme
+Tratamiento de Hipotiroidismo
+1.- Synthroid
+2.- Eutirox
+1.- Abbott
+Laboratories
+2.- Merck
+Tratamiento de Parkinson
+Sifrol
+Tratamiento de Trastornos
+Gastrointestinales
+Hemibe
+Laboratorios Rider
+283
+LAMIVUDINA
+Lamivudina comprimidos 150 mg
+F-18240
+Opko Chile
+284
+LAMIVUDINA
+Mixovir comprimidos recubiertos 150 mg
+F-11807
+Laboratorio Andrómaco
+285
+LAMIVUDINA
+ Lamivudina comprimidos recubiertos 150 mg
+F-18962
+Laboratorio Andrómaco
+286
+LAMIVUDINA
+ Ximavir comprimidos recubiertos 150 mg
+F-18963
+Master Care
+287
+LAMIVUDINA
+ Lamivudina comprimidos recubiertos 150 mg
+F-19082
+Master Care
+288
+LAMIVUDINA + ZIDOVUDINA
+Lamivudina / Zidovudina comprimidos
+recubiertos
+F-18059
+Opko Chile
+289
+LAMIVUDINA + ZIDOVUDINA
+Bivir comprimidos recubiertos
+F-12502
+Laboratorio Andrómaco
+290
+LAMIVUDINA + ZIDOVUDINA
+Lamivudina + Zidovudina 150/300
+comprimidos recubiertos
+F-18940
+Laboratorio Andrómaco
+291
+LAMIVUDINA + ZIDOVUDINA
+ Maxivir comprimidos recubiertos
+F-18966
+Master Care
+292
+LAMIVUDINA + ZIDOVUDINA
+Lamivudina + Zidovudina 150/300
+comprimidos recubiertos
+F-19081
+Master Care
+293
+NEVIRAPINA
+Nevirapina comprimidos 200 mg
+F-18330
+Opko Chile
+294
+NEVIRAPINA
+Nevirapina comprimidos 200 mg
+F-16088
+Laboratorio Andrómaco
+295
+NEVIRAPINA
+ Neviparina comprimidos 200 mg
+F-19080
+Master Care
+296
+NEVIRAPINA
+ Nevavir comprimidos 200 mg
+F-19085
+Master Care
+297
+RITONAVIR
+Norvir
+Abbott Laboratories
+Norvir comprimidos recubiertos 100 mg
+F-18866
+Abott laboratories
+298
+ZIDOVUDINA
+Mantaviral comprimidos recubiertos 300 mg
+F-10104
+Laboratorio Andrómaco
+Tratamiento de VIH/SIDA
+Epivir 3TC
+Glaxosmithkline
+Combivir
+Glaxosmithkline
+Viramune
+Boehringer Ingelheim
+Retrovir AZT
+Glaxosmithkline
+299
+ZIDOVUDINA
+ Zidovudina comprimidos recubiertos 300 mg
+F-19083
+Master Care
+300
+ZIDOVUDINA
+ Azaviral comprimidos recubiertos 300 mg
+F-19084
+Master Care
+301
+ZIDOVUDINA
+Zidovudina comprimidos recubiertos 300 mg
+F-19060
+Laboratorio Andrómaco
+Tratamiento de VIH/SIDA
+Retrovir AZT
+Glaxosmithkline
