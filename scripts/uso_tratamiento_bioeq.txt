@@ -1,5 +1,6 @@
 1
 KETOPROFENO
+Analgésicos / Antiinflamatorios
 Profenid
 Sanofi-Aventis
 Dolofar cápsulas 50 mg
@@ -7,6 +8,7 @@ F-7160
 Medipharm
 2
 KETOPROFENO
+Analgésicos / Antiinflamatorios
 Profenid
 Sanofi-Aventis
 Ketoprofeno cápsulas 50 mg
@@ -14,6 +16,7 @@ F-9897
 Laboratorio Mintlab
 3
 KETOPROFENO
+Analgésicos / Antiinflamatorios
 Profenid
 Sanofi-Aventis
 Relatene cápsulas 50 mg
@@ -21,6 +24,7 @@ F-6931
 Laboratorio Mintlab
 4
 KETOPROFENO
+Analgésicos / Antiinflamatorios
 Profenid
 Sanofi-Aventis
 Ketoprofeno cápsulas 50 mg
@@ -28,6 +32,7 @@ F-14024
 Laboratorio Andrómaco
 5
 KETOPROFENO
+Analgésicos / Antiinflamatorios
 Profenid
 Sanofi-Aventis
 Keprodol cápsulas 50 mg
@@ -35,64 +40,111 @@ F-15298
 Laboratorio Andrómaco
 6
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 Ibuprofeno comprimidos recubiertos 600 mg
 F-20011
 Medipharm
 7
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 Ibuprofeno comprimidos recubiertos 600 mg
 F-20013
 Ascend Laboratories SpA.
 8
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 Ibuprofeno comprimidos recubiertos 600 mg
 F-19794
 Laboratorio Andrómaco
 9
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 Ibuprofeno comprimidos recubiertos 400 mg
 F-20046
 Medipharm
 10
 IBUPROFENO
-Ibuprofeno comprimidos recubiertos 400 mg
-F-20047
-Ascend Laboratories SpA.
 Analgésicos / Antiinflamatorios
 1.- Nurofen
 2.- Brufen
 1.- Reckitt Benckiser
-2.- Abbott
-Laboratories
-Profenid
-Sanofi-Aventis
+2.- Abbott Laboratories
+Ibuprofeno comprimidos recubiertos 400 mg
+F-20047
+Ascend Laboratories SpA.
 11
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 Ibu-6 comprimidos recubiertos 600 mg
 F-20148
 Laboratorio Andrómaco
 12
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 Ibuprofeno comprimidos recubiertos 400 mg
 F-19797
 Laboratorio Andrómaco
 13
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 Ibuprofeno comprimidos recubiertos 200 mg
 F-19796
 Laboratorio Andrómaco
 14
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 Ibu-2 comprimidos recubiertos 200 mg
 F-20227
 Laboratorio Andrómaco
 15
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 Ibuprofeno comprimidos recubiertos 200 mg
 F-20393
 Ascend Laboratories SpA.
 16
 IBUPROFENO
+Analgésicos / Antiinflamatorios
+1.- Nurofen
+2.- Brufen
+1.- Reckitt Benckiser
+2.- Abbott Laboratories
 IBU-4 comprimidos recubiertos 400 mg
 F-20401
 Laboratorio Andrómaco
