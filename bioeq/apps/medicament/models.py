@@ -5,9 +5,10 @@ from django.db import models
 
 class Product(models.Model):
 
-    bioequivalent = models.BooleanField()
-    name = models.CharField(max_length=50)
-    holder = models.ForeignKey('Holder')
+    bioequivalent = models.BooleanField(verbose_name="Bioequivalente")
+    name = models.CharField(max_length=50, verbose_name='Detalle')
+    holder = models.ForeignKey('Holder', verbose_name='Titular')
+    registry = models.CharField(max_length=10, blank=True, verbose_name="'Registro")
     medicinal_ingredient = models.ForeignKey('MedicinalIngredient', verbose_name='Ingrediente Actívo')
 
     def __unicode__(self):
@@ -25,7 +26,7 @@ class Holder(models.Model):
 class MedicinalIngredient(models.Model):
 
     name = models.CharField(max_length=50)
-    treatment = models.ForeignKey('Treatment')
+    treatment = models.ForeignKey('Treatment', default=None, null=True, blank=True)
 
     def __unicode__(self):
         return u"%s" % self.name
