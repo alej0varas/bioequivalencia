@@ -38,6 +38,9 @@ def parse(filename):
                     splitted_vendors  = re.split(re_split_cases, page_table[idx][4])[1:]
                     added_products    = len(splitted_products)
 
+                    if not len(splitted_vendors):
+                        splitted_vendors = [ page_table[idx][4] ] * added_products
+
                     for i in xrange(0, added_products):
                         if i > 0: 
                             row_copy         = list(page_table[idx])
