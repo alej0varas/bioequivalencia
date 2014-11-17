@@ -53,28 +53,29 @@ class Command(BaseCommand):
 		del data[0]
 
 		i = len(data)
+
 		while i:
 			row = data.pop(0)
 
 			# Treatment
 			if row[1]:
-				treatment = orm_obj('Treatment', row[1].strip())
+				treatment = orm_obj(Treatment, row[1].strip())
 				self.debugOutput('Treatment', vars(treatment))
 
 			# Medicinal Ingredient
 			if row[2]:
-				medicinal_ingredient = orm_obj('MedicinalIngredient', row[2].lower())
+				medicinal_ingredient = orm_obj(MedicinalIngredient, row[2].lower())
 				# self.debugOutput('MedicinalIngredient', medicinal_ingredient)
 
 			# Non bioequivalent holder
 			if row[4]:
-				holder_non_bioeq = orm_obj('Holder', row[4])
+				holder_non_bioeq = orm_obj(Holder, row[4])
 				self.debugOutput('Holder', vars(holder_non_bioeq))
 
 
 			# Non-bioequivalent product
 			if row[3]:
-				prod_non_bioeq = orm_obj('Product', row[3], False)
+				prod_non_bioeq = orm_obj(Product, row[3], False)
 
 				if prod_non_bioeq.pk is None:
 					prod_non_bioeq.bioequivalent 		= False
@@ -87,13 +88,13 @@ class Command(BaseCommand):
 
 			# Bioequivalent holder
 			if row[7]:
-				holder_bioeq = orm_obj('Holder', row[7])
+				holder_bioeq = orm_obj(Holder, row[7])
 
 				self.debugOutput('Holder', vars(holder_bioeq))
 
 			# Bioequivalent product
 			if row[5]:
-				prod_bioeq = orm_obj('Product', row[5], False)
+				prod_bioeq = orm_obj(Product, row[5], False)
 
 				if prod_bioeq.pk is None:
 					prod_bioeq.bioequivalent 		= True
@@ -107,6 +108,8 @@ class Command(BaseCommand):
 
 			i -= 1
 
+		self.stdout.write('')
+
 	def debugOutput(self, *args):	
 		if debug:
 			self.stdout.write(' '.join(str(arg) for arg in args))
@@ -114,16 +117,11 @@ class Command(BaseCommand):
 
 def orm_obj(type, name, auto_create=True):
 	try:
-		obj = eval("%s.objects.get(name=u'%s')" % (type, name))
+		obj = type.objects.get(name=name)
 	except ObjectDoesNotExist:
-		obj = eval("%s(name=u'%s')" % (type, name))
+		obj = type(name=name)
 
 		if(auto_create):
 			obj.save()
 
 	return obj
-
-
-		
-
-		
