@@ -4,7 +4,13 @@ import re
 
 is_header_text = lambda s: (s.find('Bioequivalentes') != -1)
 
-def parse(filename):
+def write(console, *args, **kwargs):
+    if console:
+        console.write(*args, **kwargs)
+
+def transform(filename, console=None):
+    write(console, "  - Parsing...", ending='')
+
     tablePdf   = pdf.PdfFileReader (file(filename, 'rb'))
     pages      = [ str(p) for p in range(1, len(tablePdf.pages) + 1)]
 
@@ -14,12 +20,17 @@ def parse(filename):
 
     table       = []
 
-    for page_table in pdftable.table_to_list(cells, pages):
+    write(console, "done")
 
+    for page_table in pdftable.table_to_list(cells, pages):
+ 
+        row_msg_format = "\r\033[K  - %d/%d records transformed"       
+ 
         page_table_rows = len(page_table)
         idx             = 0
-
+ 
         while idx < page_table_rows:
+            write(console, row_msg_format % (idx, page_table_rows), ending='')
 
             cell_len       = sum([len(i) for i in page_table[idx]])
 
@@ -56,5 +67,8 @@ def parse(filename):
 
         table += page_table
 
+        write(console, row_msg_format % (idx, page_table_rows), ending='')
+        
+    write(console, '')
 
     return table

@@ -16,7 +16,10 @@ class Command(BaseCommand):
 	help = 'download and parse source data'
 
 	def handle(self, *args, **options):
-		self.stdout.write('Downloading file from %s' % settings.source_data_url)
+		self.stdout.write('* Extract')
+
+		self.stdout.write('  - Downloading file from %s' % settings.source_data_url)
+
 		temp_file = tempfile.NamedTemporaryFile(suffix='.pdf', prefix='bioeq_source_data-', delete=False)
 
 		try:
@@ -33,17 +36,18 @@ class Command(BaseCommand):
 				
 				sys.exit(1)
 
-			self.stdout.write('File download as "%s"' % temp_file.name)
+			self.stdout.write('  - File downloaded as "%s"' % temp_file.name)
+			self.stdout.write("* Transform\n")
 
-			# Parse source
-			self.stdout.write('Processing file...')
-			data = scrapper.medicament.parse(temp_file.name)		
-			self.stdout.write('Processing done')
+			data = scrapper.medicament.transform(temp_file.name, self.stdout)		
 
 		finally:
-			self.stdout.write('Deleting temporary file "%s"' % temp_file.name)
+			self.stdout.write('  - Deleting temporary file "%s"' % temp_file.name)
 			temp_file.close()
 			os.remove(temp_file.name)
+
+
+		self.stdout.write("* Load\n")
 
 		# Import data
 		if debug:
@@ -52,9 +56,14 @@ class Command(BaseCommand):
 		# Deleting headers
 		del data[0]
 
-		i = len(data)
+		row_msg_format = "\r\033[K  - %d/%d records loaded"
+
+		i = \
+		l = len(data)
 
 		while i:
+			self.stdout.write(row_msg_format % (l - i, l), ending='')
+
 			row = data.pop(0)
 
 			# Treatment
@@ -105,8 +114,9 @@ class Command(BaseCommand):
 
 				self.debugOutput('Product', vars(prod_bioeq));
 
-
 			i -= 1
+			
+			self.stdout.write(row_msg_format % (l - i, l), ending='')
 
 		self.stdout.write('')
 
@@ -117,7 +127,7 @@ class Command(BaseCommand):
 
 def orm_obj(type, name, auto_create=True):
 	try:
-		obj = type.objects.get(name=name)
+		obj = type.objects.get(name=name)	
 	except ObjectDoesNotExist:
 		obj = type(name=name)
 

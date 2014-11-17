@@ -6,7 +6,7 @@ from django.db import models
 class Product(models.Model):
 
     bioequivalent = models.BooleanField(verbose_name="Bioequivalente")
-    name = models.CharField(max_length=50, verbose_name='Detalle')
+    name = models.CharField(max_length=96, verbose_name='Detalle')
     holder = models.ForeignKey('Holder', verbose_name='Titular')
     registry = models.CharField(max_length=10, blank=True, verbose_name="'Registro")
     medicinal_ingredient = models.ForeignKey('MedicinalIngredient', verbose_name='Ingrediente Actívo')
