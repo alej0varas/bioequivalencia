@@ -34,7 +34,7 @@ class MedicinalIngredient(models.Model):
 
 class Treatment(models.Model):
 
-    name = models.CharField(max_length=50)
+    name = models.CharField(max_length=120)
 
     def __unicode__(self):
         return u"%s" % self.name
